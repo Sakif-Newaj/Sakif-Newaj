@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Sakif Newaj.
 #### Web Developer
-![Web Developer]
 
 I am a web and software developer. I am now working on DoorBell OS Company. 
 
