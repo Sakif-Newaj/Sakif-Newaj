@@ -37,12 +37,11 @@ Skills: HTML / CSS/ DESIGNING/POWERPOINT/DATABASE/ANDROID APP DEVELOPMENT/OTHERS
 
 
 
-<h1 align="center">Hi 👋, I'm Sakif Newaj</h1>
-<h3 align="center">I am a web developer and software engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakif-newaj&label=Profile%20views&color=0e75b6&style=flat" alt="sakif-newaj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakif-newaj" alt="sakif-newaj" /></a> </p>
+
+
+
 
 <p align="left"> <a href="https://twitter.com/@sakif_newaj" target="blank"><img src="https://img.shields.io/twitter/follow/@sakif_newaj?logo=twitter&style=for-the-badge" alt="@sakif_newaj" /></a> </p>
 
