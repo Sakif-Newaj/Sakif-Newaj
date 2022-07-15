@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Sakif-Newaj
 - 👀 I’m interested in Science & Technology
 - 🌱 I’m currently learning Java, Python
-- 💞️ I’m looking to collaborate on International Technology of Server System
+- 💞️ I’m looking to collaborate on (International Technology of Server System - ITSS)
 - 📫 How to reach me? Contact with me: sakifnewaj@engineer.com
+- Join my DoorBEll OS Company. Visit website: itss.simdif.com
 
 <!---
 Sakif-Newaj/Sakif-Newaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
